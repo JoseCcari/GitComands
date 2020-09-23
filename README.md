@@ -3,7 +3,8 @@
 ## Probando comandos - Tutorial
 
 ## Repositorio Local
-Primero debemos identificarnos para ello configuramos nuestro user y email
+Primero abrimos la terminal y nos dirigimos a la carpeta de nuestro proyecto ,
+debemos identificarnos para ello configuramos nuestro user y email
 ### git config --global user.name "Jose" 
 configuramos nuestro nombre de nuestro repositorio local para indentificarnos 
 ### git config --global user.email "josecari19999@gmail.com" 
